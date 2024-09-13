@@ -6,7 +6,6 @@ cmd ["python","main.py"]
 
  ds
  f 
- sd
- f
+fsd f
   sdf
    sd
