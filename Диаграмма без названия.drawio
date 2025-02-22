@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N1hRv7tfP2zH3NTNLuR-" name="Admin/Manager side">
-    <mxGraphModel dx="343238" dy="176328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="350681" dy="179835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -451,6 +451,9 @@
         </mxCell>
         <mxCell id="Tm3MnS0x2xT3sJsGYzy--68" value="Create Courier" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="413" y="710" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--69" value="Ban non ethical users" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="413" y="770" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
