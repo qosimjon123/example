@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N1hRv7tfP2zH3NTNLuR-" name="Admin/Manager side">
-    <mxGraphModel dx="41718" dy="31087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="343238" dy="176328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,15 +337,6 @@
         <mxCell id="10" value="Manage Users" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-420" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="Manage Products" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="220" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="12" value="Manage Orders" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="220" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="13" value="Logout" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="420" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="15" edge="1" parent="1" source="2" target="3" />
         <mxCell id="16" edge="1" parent="1" source="2" target="4" />
         <mxCell id="17" edge="1" parent="1" source="3" target="5" />
@@ -364,9 +355,6 @@
         <mxCell id="30" edge="1" parent="1" source="13" target="14" />
         <mxCell id="KbyOO4I9xaz6ZWWNNDRM-30" value="Authorization" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="364" y="260" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KbyOO4I9xaz6ZWWNNDRM-31" value="Check" style="rhombus;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="400" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KbyOO4I9xaz6ZWWNNDRM-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -395,8 +383,74 @@
             <mxPoint x="424" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tm3MnS0x2xT3sJsGYzy--32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="140" y="370" width="590" height="590" as="geometry" />
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="460" width="970" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--34" value="Authorization rules" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="346" y="390" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="661" width="769" height="769" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--35" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="941" width="489" height="489" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--37" value="Admin" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--38" value="Service Manager" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="661" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--39" value="Shop local manager" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="941" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--40" value="Manage self-Shop" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="454" y="990" width="406" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--41" value="Manage self-products" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="454" y="1050" width="406" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--42" value="Manage self-prices" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="454" y="1110" width="406" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--47" value="Manage Shops" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="710" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--48" value="Manage Products" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="770" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--49" value="Manage prices(if seller agreed)" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="830" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--50" value="Manage promotions" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="890" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--51" value="Manage Orders" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="950" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--52" value="Manage promotions(agreed or disagreed)" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="454" y="1169" width="406" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--53" value="Manage Courier" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1010" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--54" value="Manage Q&amp;A" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1070" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--55" value="Manage Payments transactions" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1129" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--56" value="Create Shops" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="510" width="940" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--65" value="Create Service Manager and local" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="560" width="940" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--66" value="Create Q&amp;A service users" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="610" width="940" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm3MnS0x2xT3sJsGYzy--68" value="Create Courier" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="413" y="710" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
