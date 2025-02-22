@@ -301,13 +301,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N1hRv7tfP2zH3NTNLuR-" name="Admin/Manager side">
-    <mxGraphModel dx="350681" dy="179835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="353162" dy="181004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3" value="Admin Login" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-670" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="4" value="Login" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="354" width="120" height="40" as="geometry" />
         </mxCell>
@@ -324,18 +321,6 @@
         </mxCell>
         <mxCell id="6" value="Check" style="rhombus;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="374" y="160" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7" value="Invalid" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="140" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8" value="Valid" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="140" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9" value="Manage Shops" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="220" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="10" value="Manage Users" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="15" edge="1" parent="1" source="2" target="3" />
         <mxCell id="16" edge="1" parent="1" source="2" target="4" />
