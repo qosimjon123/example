@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3" value="Login" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="3" value="Login" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="385" y="-70" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Authentication" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
@@ -30,7 +30,7 @@
         <mxCell id="10" value="View Reports" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="600" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="Logout" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="11" value="Logout" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="373" y="920" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2VmeVm7xMeipd_sni1IP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2VmeVm7xMeipd_sni1IP-24" target="3">
@@ -208,6 +208,15 @@
         </mxCell>
         <mxCell id="2VmeVm7xMeipd_sni1IP-88" value="I&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;nValid&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="502" y="169.99857142857144" width="52" height="15.714285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="2VmeVm7xMeipd_sni1IP-90" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6F0000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=light-dark(#A20025,#CC0000);fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="406.5" y="1040" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VmeVm7xMeipd_sni1IP-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=25;exitPerimeter=0;entryX=0.485;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="11" target="2VmeVm7xMeipd_sni1IP-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="357" y="1010" as="sourcePoint" />
+            <mxPoint x="440" y="1040" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
